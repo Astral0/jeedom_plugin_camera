@@ -1,0 +1,10 @@
+{
+    "axis.207w": {
+	"name" : "Axis",
+        "configuration": {
+            "urlStream": "\/axis-cgi\/jpg\/image.cgi",
+            "protocole": "http"
+        },
+        "commands": []
+    }
+}
