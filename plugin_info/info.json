@@ -2,7 +2,7 @@
 	"id" : "camera",
 	"name" : "Caméra",
 	"description" : "Plugin pour afficher les caméras IP",
-	"licence" : "AGPL",
+	"licence" : "GPLv2",
 	"author" : "Loïc",
 	"require" : "3.0",
 	"category" : "security",
